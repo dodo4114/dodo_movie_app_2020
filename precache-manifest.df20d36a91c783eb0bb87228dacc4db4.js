@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9361e02f9c7aaeb8981d5978ae755493",
+    "revision": "a355d3e351dfa5aaaf91a09ccea0abb9",
     "url": "/dodo_movie_app_2020/index.html"
   },
   {

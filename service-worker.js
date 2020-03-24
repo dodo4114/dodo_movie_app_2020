@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dodo_movie_app_2020/precache-manifest.c6ad0dc68529a70ae871f15c04c4b8cc.js"
+  "/dodo_movie_app_2020/precache-manifest.df20d36a91c783eb0bb87228dacc4db4.js"
 );
 
 self.addEventListener('message', (event) => {
